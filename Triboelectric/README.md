@@ -1,0 +1,1 @@
+Paper 1: Triboelectric Nanogenerator as a Self-Powered Communication Unit for Processing and Transmitting Information
